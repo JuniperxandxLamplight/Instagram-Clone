@@ -7,6 +7,19 @@ body{
   background-color: #fafafa;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: darkgray;
+}
+
+a:active{
+  color: purple;
+}
+
 .panel {
   width: 615px;
   margin: auto;
